@@ -41,14 +41,22 @@
       ]
     },
     {
-      "slug": "filename",
-      "headline": "Headline goes here",
-      "date": "Month DD, YYYY",
-      "image": "image.jpg",
+      "slug": "2019-10-20",
+      "headline": "Return of the Kraken",
+      "date": "Oct. 20, 2020",
+      "image": "kraken03.jpg",
       "post": [
         {
           "type": "text",
-          "value": "Paragraphs of text."
+          "value": "Piracy dance the hempen jig furl scuttle fire in the hole topmast careen parrel haul wind quarter. Spanker main sheet Chain Shot transom run a rig cackle fruit flogging snow no prey, no pay Arr. Topmast loot hulk Brethren of the Coast doubloon fire in the hole tack aye hornswaggle pressgang."
+        },
+        {
+          "type": "text",
+          "value": "Topsail sheet long boat rope's end scourge of the seven seas gangplank landlubber or just lubber man-of-war spirits hempen halter. Matey splice the main brace gangway tack knave yawl boom bowsprit league six pounders. Hands galleon loot reef clap of thunder grog blossom flogging Cat o'nine tails bilge water crack Jennys tea cup."
+        },
+        {
+          "type": "text",
+          "value": "Doubloon draught long boat deadlights blow the man down man-of-war cable fathom heave down hands. Pirate clipper jolly boat Nelsons folly barque Arr Jolly Roger smartly scuppers quarterdeck. List Letter of Marque chandler parley aft hearties Pieces of Eight nipperkin Yellow Jack yard."
         }
       ]
     }
